@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{152:function(p){p.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"raspberry-pi","name":"raspberry pi","count":2,"permalink":"/blog/tags/raspberry-pi"}')}}]);
